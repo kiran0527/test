@@ -17,7 +17,7 @@ public class CarPark
 	final int SEARCH_CARS = 4;
 	final int SORT_CARS = 5;
 	final int EXIT = 6;
-
+//edited by kiran
 	Scanner inputMenuChoice = new Scanner(System.in);
 	static Car car[] = new Car[1];
 	static int carsParked =-1;
